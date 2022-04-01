@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bryan-Philip
-- 👀 I’m interested in software development
+- 👀 I’m interested in backend software development
 - 🌱 I’m currently learning crypto systems and tokenization
 - 💞️ I’m looking to collaborate with anyone intereted in this field 
-- 📫 How to reach me is through bryanp02@gmail.com
+- 📫 How to reach me is through bryanp02@gmail.com / +254705800801
 
 <!---
 Bryan-Philip/Bryan-Philip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
